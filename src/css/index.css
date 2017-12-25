@@ -1,0 +1,9 @@
+.container {
+    text-align: center;
+    margin-top: 40px;
+	color:red;
+}
+
+body {
+	 background: url('../images/super.png') no-repeat center / contain;
+}
